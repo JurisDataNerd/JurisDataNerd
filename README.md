@@ -36,6 +36,9 @@
 </p>
 
 ---
+![Fauzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+---
 
 ### 📌 Highlight Projects
 - **MedSkill** – Platform Bimbel Kedokteran dan Sewa Alat Medis (Fullstack)
