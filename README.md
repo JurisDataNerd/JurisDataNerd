@@ -8,10 +8,11 @@
 ---
 
 ### 🛠️ Tech Stack I Use
-- **Frontend:** React, Vite, Tailwind CSS
-- **Backend:** Supabase, PHP (MVC), Node.js (basic)
-- **Database:** PostgreSQL, MySQL
-- **Tools:** Git, VS Code, XAMPP, Figma
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
 ---
 
