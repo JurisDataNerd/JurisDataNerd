@@ -16,7 +16,7 @@ I am a **Double Degree Student in Informatics & Law**. I build digital infrastru
 
 ---
 
-### 🛠️ Core Stack & Weapons
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,react,nextjs,vue,solidity,php,python,nodejs,mongodb,mysql,supabase,tailwind,figma,postman,linux&theme=dark" />
@@ -24,11 +24,12 @@ I am a **Double Degree Student in Informatics & Law**. I build digital infrastru
 
 ---
 
-### 📊 My Contribution
+### 📊 My Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JurisDataNerd&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3" width="100%" />
 </p>
+
 ---
 
 ### 🤝 Let's Connect!
