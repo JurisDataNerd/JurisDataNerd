@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=JurisDataNerd+Terminal;Bridging+Law+and+Code;Hi+there!+Welcome+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=JurisDataNerd+Terminal;Bridging+Law+and+Code;Executing+Digital+Justice;Welcome+to+the+Vault" />
 </p>
 
 <p align="center">
@@ -8,69 +8,38 @@
 
 ---
 
-### ⚖️ The Juris-Coder Profile
-I am a **Double Degree Student in Informatics & Law**. My mission is to build digital infrastructures that are not only technologically advanced but also legally compliant and secure.
+### Fauzan Arisanto - JurisDataNerd
+I am a **Double Degree Student in Informatics & Law**. I build digital infrastructures that are not only high-performing but also legally compliant and security-first. Also... i use Arch BTW!!!
 
-- 🎓 **Focus:** Cybersecurity, Digital Forensics, and Smart Contract Law.
-- 💡 **Philosophy:** If code is law, then let's write it without loopholes.
-
----
-
-### 🚀 Top Tier Projects
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-        <img src="https://img.icons8.com/fluency/96/medical-case.png" width="50"/>
-        <h4>MedSkill</h4>
-        <p>EdTech & Rental platform for medical students.</p>
-        <code>React</code> <code>Supabase</code>
-    </td>
-    <td width="33%" align="center" valign="top">
-        <img src="https://img.icons8.com/fluency/96/nuclear-energy.png" width="50"/>
-        <h4>AgriNuklir</h4>
-        <p>Smart farming powered by nuclear tech education.</p>
-        <code>PHP MVC</code> <code>MySQL</code>
-    </td>
-    <td width="33%" align="center" valign="top">
-        <img src="https://img.icons8.com/fluency/96/safe-ok.png" width="50"/>
-        <h4>ChainAid</h4>
-        <p>Transparent Donation on <b>Sepolia Testnet</b>.</p>
-        <code>Solidity</code> <code>Vite</code>
-    </td>
-  </tr>
-</table>
+- 🎓 **Focus:** Cybersecurity, Digital Forensics, Web Development, Web3 Ethusiast, Smart Contract
+- 💡 **Motto:** *"If code is law, let's write it without loopholes."*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Stack & Weapons
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,solidity,php,python,nodejs,mysql,supabase,tailwind,figma,postman,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arch,react,nextjs,vue,solidity,php,python,nodejs,mongodb,mysql,supabase,tailwind,figma,postman,linux&theme=dark" />
 </p>
 
 ---
 
-### 📈 System Logs
+### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JurisDataNerd&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JurisDataNerd&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JurisDataNerd&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3" width="100%" />
 </p>
-
 ---
 
-### 🤝 Let's Connect!
+### 🤝 Secure Connection
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fauzanarisanto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/fauzanarisanto" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:arisantofauzan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
