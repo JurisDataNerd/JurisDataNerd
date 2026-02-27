@@ -24,14 +24,14 @@ I am a **Double Degree Student in Informatics & Law**. I build digital infrastru
 
 ---
 
-### 📊 Contribution Activity
+### 📊 My Contribution
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JurisDataNerd&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3" width="100%" />
 </p>
 ---
 
-### 🤝 Secure Connection
+### 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fauzanarisanto" target="_blank">
@@ -46,5 +46,5 @@ I am a **Double Degree Student in Informatics & Law**. I build digital infrastru
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=150&section=footer&reversal=false" width="100%"/>
 </p>
