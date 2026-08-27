@@ -8,7 +8,7 @@
 
 ---
 
-### Fauzan Arisanto - JurisDataNerd
+### Fauzan Arisanto - PsychoNerd
 I am a **Double Degree Student in Informatics & Law**. I build digital infrastructures that are not only high-performing but also legally compliant and security-first. Also... i use Arch BTW!!!
 
 Currently Working as **Fullstack Developer** for PT. Gadjah Medika Cendekia
