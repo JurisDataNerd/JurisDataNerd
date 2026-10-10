@@ -9,27 +9,11 @@
 ---
 
 ### Fauzan Arisanto - PsychoNerd
-I am a **Double Degree Student in Informatics & Law**. I build digital infrastructures that are not only high-performing but also legally compliant and security-first. Also... i use Arch BTW!!!
-
-Currently Working as **Fullstack Developer** for PT. Gadjah Medika Cendekia
-
-- 🎓 **Focus:** Cybersecurity, Digital Forensics, Web Development, Web3 Ethusiast, Smart Contract
-- 💡 **Motto:** *"If code is law, let's write it without loopholes."*
-
----
 
 ### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,react,nextjs,vue,solidity,php,python,nodejs,mongodb,mysql,supabase,tailwind,figma,postman,linux&theme=dark" />
-</p>
-
----
-
-### 📊 My Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JurisDataNerd&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3" width="100%" />
 </p>
 
 ---
